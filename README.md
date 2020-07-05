@@ -1,4 +1,4 @@
-## MP3-player
+## MP3 player
 
 * This is an MP3 player constructed with Pygame and the user interface Tkinter.
 
